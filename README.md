@@ -13,8 +13,6 @@ I have no idea if this mod will work for you as I don't have a VR headset, and I
 
 Since this module will be affecting your visual perspective, those playing on VR headsets may experience balance issues, etc, so be extra careful. You have been warned!
 
-Template is an experimental module leveraging the newly-exposed KTANEModKit for 'Keep Talking and Nobody Explodes'.
-
 ## Installation
 
 ### Steam Workshop Installation
