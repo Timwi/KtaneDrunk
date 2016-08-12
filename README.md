@@ -15,11 +15,11 @@ According to bitstim, this mod will have no effect on VR users, as the VR headse
 
 ### Steam Workshop Installation
 
-If you purchased _Keep Talking and Nobody Explodes_ through Steam, you'll be able to subscribe to the mod on the Steam Workshop; goto http://steamcommunity.com/sharedfiles/filedetails/?id=725245006 to subscribe to the Semaphore mod. This will download the module automatically for you, and will continue to download updates for the module when updates are released.
+If you purchased _Keep Talking and Nobody Explodes_ through Steam, you'll be able to subscribe to the mod on the Steam Workshop; goto http://steamcommunity.com/sharedfiles/filedetails/?id=725245006 to subscribe to the Drunk mod. This will download the module automatically for you, and will continue to download updates for the module when updates are released.
 
 ### Non-Steam Installation
 
-If you didn't purchase 'Keep Talking and Nobody Explodes' through Steam, but you have a modpreview version to play on, then you can manually install the module instead of using the Steam Workshop.
+If you didn't purchase _Keep Talking and Nobody Explodes_ through Steam, but you have a mod-enabled version to play on, then you can manually install the module instead of using the Steam Workshop.
 
 Goto https://github.com/ashbash1987/ktanemod-drunk/releases and download the latest release for the module.
 
